@@ -1,0 +1,12 @@
+﻿  Application.cpp
+D:\VSCOMUNNITY\OpenGL2\OpenGL2\src\Application.cpp(55,24): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+D:\VSCOMUNNITY\OpenGL2\OpenGL2\src\Application.cpp(56,24): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+D:\VSCOMUNNITY\OpenGL2\OpenGL2\src\Application.cpp(57,24): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+D:\VSCOMUNNITY\OpenGL2\OpenGL2\src\Application.cpp(58,25): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+D:\VSCOMUNNITY\OpenGL2\OpenGL2\src\Application.cpp(59,25): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+D:\VSCOMUNNITY\OpenGL2\OpenGL2\src\Application.cpp(160,15): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+D:\VSCOMUNNITY\OpenGL2\OpenGL2\src\Application.cpp(184,21): warning C4305: '+=': truncamiento de 'double' a 'float'
+D:\VSCOMUNNITY\OpenGL2\OpenGL2\src\Application.cpp(209,24): warning C4305: '=': truncamiento de 'double' a 'float'
+D:\VSCOMUNNITY\OpenGL2\OpenGL2\src\Application.cpp(227,26): warning C4305: '=': truncamiento de 'double' a 'float'
+D:\VSCOMUNNITY\OpenGL2\OpenGL2\src\Application.cpp(263,23): warning C4305: '=': truncamiento de 'double' a 'float'
+  OpenGL2.vcxproj -> D:\VSCOMUNNITY\OpenGL2\Debug\OpenGL2.exe
